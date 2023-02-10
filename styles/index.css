@@ -604,3 +604,11 @@ th {
 /* #special:hover .hidden{
   display: block !important;
 } */
+/* 
+.circles li:nth-child(10) {
+  left: 85%;
+  width: 150px;
+  height: 150px;
+  animation-delay: 6s;
+  animation-duration: 11s;
+} */
