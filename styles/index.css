@@ -604,12 +604,3 @@ th {
 /* #special:hover .hidden{
   display: block !important;
 } */
-
-body {
-  margin: 0;
-  margin-top: 15px;
-  margin-bottom: 2%;
-  overflow-x: hidden;
-  -mox-overflow-x: hidden;
-  -webkit-overflow-x: hidden;
-}
